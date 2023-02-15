@@ -1,6 +1,9 @@
-"""Ce script permet d'afficher dans le terminal, à partir d'un mot ciblé, toutes les occurrences trouvées dans les fichier TXT et PDF situés dans le dossier courant. Le script doit être dans le même dossier que les fichiers TXT ou PDF. Vous devez également avoir installé la librairie python pdfminer""" 
+"""Ce script permet d'afficher dans le terminal, à partir d'un mot ciblé, toutes les occurrences trouvées dans les fichier TXT et PDF 
+situés dans le dossier courant. Le script doit être dans le même dossier que les fichiers TXT ou PDF. Vous devez également avoir 
+installé la librairie python pdfminer""" 
 
-"""This script is used to display in the terminal, from a targeted word, all the occurrences found in the TXT and PDF files located in the current folder. The script must be in the same folder as the TXT or PDF files. You must also have installed the pdfminer python library"""
+"""This script is used to display in the terminal, from a targeted word, all the occurrences found in the TXT and PDF files located 
+in the current folder. The script must be in the same folder as the TXT or PDF files. You must also have installed the pdfminer python library"""
 
 import os
 from io import StringIO
