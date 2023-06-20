@@ -1,4 +1,5 @@
-"""Ce script recherche un mot ciblé dans tous les fichiers PDF du dossier courant en utilisant la bibliothèque fitz. Pour chaque occurrence du mot ciblé, le script affiche le nom du fichier PDF, le numéro de page et un extrait de texte autour du mot ciblé."""
+"""Ce script recherche un mot ciblé dans tous les fichiers PDF du dossier courant en utilisant la bibliothèque fitz. 
+Pour chaque occurrence du mot ciblé, le script affiche le nom du fichier PDF, le numéro de page et un extrait de texte autour du mot ciblé."""
 
 import os
 import fitz
