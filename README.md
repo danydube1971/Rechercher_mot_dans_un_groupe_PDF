@@ -35,6 +35,7 @@ Le script parcoure un dossier spécifié, ouvre chaque fichier PDF, et recherche
    - Un ou deux mots-clés à rechercher.
 3. Le script parcourt les fichiers PDF du dossier spécifié et recherche les mots-clés.
 4. Les résultats (comme le nombre d'occurrences des mots-clés) sont affichés.
+5. En cliquant sur un résultat, cela ouvrira le PDF ciblé.
 
 
 
