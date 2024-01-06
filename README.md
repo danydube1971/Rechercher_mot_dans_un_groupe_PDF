@@ -27,7 +27,7 @@ Le script parcoure un dossier spécifié, ouvre chaque fichier PDF, et recherche
    - PyMuPDF : `pip install PyMuPDF`
 
 **Étapes pour Utiliser le Script** :
-1. Lancez le script. Si une interface graphique est implémentée, elle devrait s'ouvrir.
+1. Lancez le script *Rechercher_mots_dans_PDF_GUI_1.0*. 
 2. Sélectionnez un dossier contenant les PDF :
    - Le dossier contenant les fichiers PDF à analyser.
    - Un ou deux mots-clés à rechercher.
