@@ -1,4 +1,4 @@
-# Trouver_mot_dans_PDF
+# Rechercher_mots_dans_PDF
 
 Le script `Rechercher_mots_dans_PDF.py` est un programme Python pour rechercher des mots spécifiques dans des fichiers PDF. 
 
